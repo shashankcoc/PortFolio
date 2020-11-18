@@ -11,9 +11,9 @@ a{
   color: #4f98ca;
 }
 
-#clock {
+#day{
   color: #66ff99;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
